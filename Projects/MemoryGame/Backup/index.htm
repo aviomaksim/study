@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Memory Game</title>
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+    </head>
+    <script type="text/javascript" src="js/Main.js"></script>
+    <script type="text/javascript" src="js/Card.js"></script>
+    <body>
+        <section id="lobby">
+            <h1>Memory Game</h1>
+            <BR />
+            <p>Pakk</p>
+            <select id="cardsCountCombo" onchange="packChanged()">
+                <option value="16">16</option>
+                <option value="26">26</option>
+                <option value="52">52</option>
+            </select>
+            <p>Raskus</p>
+            <select id="levelCombo" onchange="levelChanged()">
+                <option value="0">0 - samadeks loetakse kaarte soltumata mastist ja varvist</option>
+                <option value="1">1 - samadeks loetakse kaarte, mis on sama sorti ja sama varvi</option>
+            </select>
+            <p id="ital">NB! Kui samadeks loetakse kaarte sõltumata mastist ja värvist, siis ei saa kasutada 52-st pakki, vaid ainult 26-st pakki või väiksemat. Kui samadeks loetakse kaarte, mis on sama sorti ja värvi, saab kasutada 52-st pakki</p>
+            
+            <button type="button" onclick="startGame()">Alusta uut mängu</button>
+            <button type="button" onclick="showHistory()">Ajalugu</button>
+            <div id="infobar">
+                <p id="info"></p>
+                <p id="clock"></p>
+            </div>
+        </section>
+        <section id="game" style="display:none;">
+            <div id="content">
+                <div id="cards">
+                
+                </div>
+            </div>
+        </section>
+    </body>
+</html>

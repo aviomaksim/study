@@ -1,0 +1,13 @@
+Eesnimi1 Perenimi1	31	12	1980
+Eesnimi2 Perenimi2	20	08	1985
+Eesnimi3 Perenimi3	21	07	1984
+Eesnimi4 Perenimi4	22	06	1985
+Eesnimi5 Perenimi5	23	05	1986
+Eesnimi6 Perenimi6	24	04	1987
+Eesnimi7 Perenimi7	23	02	2013
+Eesnimi8 Perenimi8	8	03	2013
+Eesnimi9 Perenimi9	9	03	2013
+Eesnimi10 Perenimi10	10	03	2013
+Eesnimi11 Perenimi11	11	03	2013
+Eesnimi12 Perenimi12	12	03	2013
+Eesnimi13 Perenimi13	13	03	2013
