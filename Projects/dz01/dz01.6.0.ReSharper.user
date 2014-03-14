@@ -1,0 +1,57 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="340" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3623" fromTop="29" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3623" fromTop="14" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3623" fromTop="39" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3623" fromTop="13" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3296" fromTop="43" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="524" fromTop="14" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3342" fromTop="11" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="2650" fromTop="21" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3237" fromTop="34" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="2914" fromTop="24" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3623" fromTop="25" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3623" fromTop="28" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3333" fromTop="42" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3908" fromTop="33" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="1068" fromTop="33" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="1838" fromTop="18" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="1838" fromTop="18" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="1752" fromTop="18" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="1968" fromTop="31" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3609" fromTop="34" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3282" fromTop="23" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="2959" fromTop="24" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="2692" fromTop="16" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="1206" fromTop="19" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3706" fromTop="21" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="4351" fromTop="43" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="3984" fromTop="31" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="2340" fromTop="11" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="2445" fromTop="15" />
+      <File id="F3AC77F5-B411-4822-8125-4A0A650C4B66/f:dz01.cpp" caret="340" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

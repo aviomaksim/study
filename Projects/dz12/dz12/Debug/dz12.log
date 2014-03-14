@@ -1,0 +1,31 @@
+﻿Build started 17.12.2011 13:08:32.
+     1>Project "c:\Users\maksim kozorez\documents\visual studio 2010\Projects\dz12\dz12\dz12.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\dz12.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dz12.cpp
+         dz12.cpp
+     1>c:\users\maksim kozorez\documents\visual studio 2010\projects\dz12\dz12\dz12.cpp(18): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\dz12.exe.embed.manifest.res" Debug\dz12_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\dz12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\dz12.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\dz12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\dz12.lib" /MACHINE:X86 Debug\dz12.exe.embed.manifest.res
+         Debug\dz12.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\dz12.exe.embed.manifest" /manifest Debug\dz12.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\dz12.exe.embed.manifest.res" Debug\dz12_manifest.rc 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\dz12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\dz12.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\dz12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\dz12.lib" /MACHINE:X86 Debug\dz12.exe.embed.manifest.res
+         Debug\dz12.obj
+         dz12.vcxproj -> c:\users\maksim kozorez\documents\visual studio 2010\Projects\dz12\Debug\dz12.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\dz12.unsuccessfulbuild".
+         Touching "Debug\dz12.lastbuildstate".
+     1>Done Building Project "c:\Users\maksim kozorez\documents\visual studio 2010\Projects\dz12\dz12\dz12.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.49

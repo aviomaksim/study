@@ -1,0 +1,38 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A30B5C60-D05A-499E-99D6-1E619EFDBEC6/f:xstring" caret="41902" fromTop="20" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="602" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="1408" fromTop="25" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="351" fromTop="14" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="439" fromTop="18" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="586" fromTop="18" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="58" fromTop="2" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="1200" fromTop="17" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="1338" fromTop="31" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="1056" fromTop="14" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="1283" fromTop="24" />
+      <File id="DD7B2106-7481-40E3-A7EA-AE78DCAB5FB8/f:dz02.cpp" caret="1351" fromTop="31" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

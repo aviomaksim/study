@@ -1,0 +1,32 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8E99DE44-12EC-4F40-BBC1-537C74D56981/f:dz24.cpp" caret="77" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8E99DE44-12EC-4F40-BBC1-537C74D56981/f:dz24.cpp" caret="382" fromTop="12" />
+      <File id="8E99DE44-12EC-4F40-BBC1-537C74D56981/f:dz24.cpp" caret="555" fromTop="19" />
+      <File id="8E99DE44-12EC-4F40-BBC1-537C74D56981/f:dz24.cpp" caret="777" fromTop="34" />
+      <File id="8E99DE44-12EC-4F40-BBC1-537C74D56981/f:dz24.cpp" caret="862" fromTop="40" />
+      <File id="8E99DE44-12EC-4F40-BBC1-537C74D56981/f:dz24.cpp" caret="468" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

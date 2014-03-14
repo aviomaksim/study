@@ -1,0 +1,34 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="407" fromTop="7" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="59" fromTop="2" />
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="642" fromTop="23" />
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="801" fromTop="34" />
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="1086" fromTop="43" />
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="933" fromTop="33" />
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="1004" fromTop="37" />
+      <File id="137B84CA-D18D-40DE-B710-583E432D602F/f:dz22.cpp" caret="407" fromTop="7" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

@@ -1,0 +1,43 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:targetver.h" caret="0" fromTop="0" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="123" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="31" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="32" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="33" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="34" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="148" fromTop="24" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="148" fromTop="1" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="28" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="33" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="40" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="474" fromTop="26" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="456" fromTop="24" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="371" fromTop="16" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="131" fromTop="4" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="457" fromTop="23" />
+      <File id="C5A7382C-163A-4A76-BB8C-72F3144B70AC/f:Dz1.cpp" caret="280" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

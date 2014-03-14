@@ -1,0 +1,37 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F3A3CE04-AD02-4ECD-BFF2-96BAD278F49B/f:chkstk.asm" caret="3351" fromTop="21" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="301" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="510" fromTop="18" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="39" fromTop="1" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="497" fromTop="19" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="732" fromTop="31" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="832" fromTop="35" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="318" fromTop="13" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="572" fromTop="27" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="558" fromTop="20" />
+      <File id="B07434A7-0DE0-4DBC-937A-7CC14949E2CB/f:dz21.cpp" caret="301" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

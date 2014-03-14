@@ -1,0 +1,34 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="725" fromTop="19" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="344" fromTop="14" />
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="699" fromTop="20" />
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="1008" fromTop="38" />
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="544" fromTop="12" />
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="794" fromTop="39" />
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="762" fromTop="27" />
+      <File id="BB4EFFA2-2092-42E1-BFEC-C392F722B68C/f:dz23.cpp" caret="218" fromTop="4" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

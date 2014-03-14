@@ -1,0 +1,33 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="4B737CC6-C09E-4715-B733-886C8856C85E/f:dz13.cpp" caret="285" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="4B737CC6-C09E-4715-B733-886C8856C85E/f:dz13.cpp" caret="691" fromTop="6" />
+      <File id="4B737CC6-C09E-4715-B733-886C8856C85E/f:dz13.cpp" caret="654" fromTop="18" />
+      <File id="4B737CC6-C09E-4715-B733-886C8856C85E/f:dz13.cpp" caret="519" fromTop="16" />
+      <File id="4B737CC6-C09E-4715-B733-886C8856C85E/f:dz13.cpp" caret="519" fromTop="16" />
+      <File id="4B737CC6-C09E-4715-B733-886C8856C85E/f:dz13.cpp" caret="444" fromTop="14" />
+      <File id="4B737CC6-C09E-4715-B733-886C8856C85E/f:dz13.cpp" caret="285" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
