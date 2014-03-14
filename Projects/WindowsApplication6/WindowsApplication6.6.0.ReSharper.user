@@ -1,0 +1,57 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="2198" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="702" fromTop="12" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="294" fromTop="8" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="1428" fromTop="5" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="1038" fromTop="20" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="729" fromTop="24" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="3670" fromTop="21" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="3809" fromTop="23" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4011" fromTop="29" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="1610" fromTop="13" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="3850" fromTop="13" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4091" fromTop="33" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="1335" fromTop="14" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="2096" fromTop="32" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="2557" fromTop="30" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="2620" fromTop="31" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="2981" fromTop="34" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="3652" fromTop="29" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4163" fromTop="29" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="290" fromTop="10" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4163" fromTop="30" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4011" fromTop="22" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4129" fromTop="20" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4187" fromTop="16" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4309" fromTop="20" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="158" fromTop="5" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4442" fromTop="23" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="6416" fromTop="10" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="4161" fromTop="6" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="3044" fromTop="26" />
+      <File id="EC5515C0-3CD5-4422-868C-B5221F2FCD16/f:Form1.vb" caret="3653" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

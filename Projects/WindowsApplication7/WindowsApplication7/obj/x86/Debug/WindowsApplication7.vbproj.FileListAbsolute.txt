@@ -1,0 +1,3 @@
+C:\Users\Maksim Kozorez\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication5.exe
+C:\Users\Maksim Kozorez\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication5.xml
+C:\Users\Maksim Kozorez\Documents\Visual Studio 2010\Projects\WindowsApplication7\WindowsApplication7\obj\x86\Debug\WindowsApplication5.pdb

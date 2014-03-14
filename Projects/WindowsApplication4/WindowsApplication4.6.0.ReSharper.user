@@ -1,0 +1,57 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2947" fromTop="34" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="3511" fromTop="17" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="3511" fromTop="25" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="75" fromTop="3" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="3960" fromTop="27" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="3930" fromTop="23" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="3661" fromTop="21" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="268" fromTop="12" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="281" fromTop="11" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2361" fromTop="28" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2361" fromTop="25" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2361" fromTop="35" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2361" fromTop="28" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="506" fromTop="5" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="506" fromTop="5" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="506" fromTop="5" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="506" fromTop="3" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2777" fromTop="36" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="918" fromTop="17" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="901" fromTop="17" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="1334" fromTop="28" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="1317" fromTop="28" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="1750" fromTop="36" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="1734" fromTop="36" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2168" fromTop="36" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2152" fromTop="36" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2567" fromTop="35" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2550" fromTop="35" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2964" fromTop="34" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="2947" fromTop="34" />
+      <File id="1972F1CE-0D0F-4C1D-A71C-20669847D412/f:Form1.vb" caret="4124" fromTop="34" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
