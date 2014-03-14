@@ -1,0 +1,10 @@
+Järve kontor 	Pärnu mnt. 234/238, 11624 Tallinn 	Tel 665 5100 	E-R 10-19, L 10-17
+Kristiine kontor	Endla 45, 10615 Tallinn 	Tel 665 5100 	E-R 10-20, L 10-17, P 10-15
+Lasnamäe Centrumi kontor	Mustakivi tee 13, 13912 Tallinn 	Tel 665 5100 	E-R 10-20, L 10-17, P 10-15
+Magistrali kontor	Sõpruse pst. 201/203, 13419 Tallinn 	Tel 665 5100 	E-R 10-20, L 10-18
+Nõmme kontor	Turu plats 5/7, 11611 Tallinn 	Tel 665 5100 	E-R 10-18, L 10-14
+Pirita kontor	Rummu tee 4, 11911 Tallinn 	Tel 665 5100 	E-R 10-20, L 10-15
+Rocca al Mare kontor	Paldiski mnt 102, 13522 Tallinn 	Tel 665 5100 	E-R 10-20, L 10-18, P 10-15
+Roosikrantsi kontor	Roosikrantsi 2, 15086 Tallinn 	Tel 665 5100 	E-R 10-18
+Tornimäe kontor	Tornimäe 2, 15010 Tallinn	Tel 665 5100	E-R 9-18, L 10-15
+Ülemiste kontor	Suur-Sõjamäe 4, 11415 Tallinn 	Tel 665 5100 	E-P 10-20

@@ -1,0 +1,109 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="143" fromTop="7" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:index.htm" caret="1167" fromTop="16" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10849" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="9" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="17" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="510" fromTop="16" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="2811" fromTop="19" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="23" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="6" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="23" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="19" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="13" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="26" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="1443" fromTop="18" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="21" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="1414" fromTop="0" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="23" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="18" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="1704" fromTop="32" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="1704" fromTop="26" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="1705" fromTop="26" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="956" fromTop="31" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="556" fromTop="16" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="412" fromTop="6" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="1244" fromTop="27" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="458" fromTop="0" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="360" fromTop="11" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="831" fromTop="23" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:chipselector.css" caret="143" fromTop="7" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="32" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="10985" fromTop="9" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="9509" fromTop="9" />
+      <File id="9927B6FF-3366-4F5D-AE6C-38FFAAE1CA58/f:ChipSelector.js" caret="11172" fromTop="33" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="JavaScriptSpecificContext">
+      <Item value="ScriptEngine" priority="10" />
+      <Item value="function" priority="21" />
+      <Item value="this" priority="175" />
+      <Item value="var" priority="120" />
+      <Item value="menubar" priority="10" />
+      <Item value="classes" priority="21" />
+      <Item value="that" priority="208" />
+      <Item value="toolbar" priority="10" />
+      <Item value="i" priority="76" />
+      <Item value="alert" priority="32" />
+      <Item value="true" priority="10" />
+      <Item value="console" priority="241" />
+      <Item value="x" priority="120" />
+      <Item value="false" priority="10" />
+      <Item value="else" priority="54" />
+      <Item value="y" priority="10" />
+      <Item value="START_EV" priority="10" />
+      <Item value="newX" priority="21" />
+      <Item value="if" priority="120" />
+      <Item value="Math" priority="21" />
+      <Item value="angle" priority="10" />
+      <Item value="for" priority="10" />
+      <Item value="while" priority="10" />
+      <Item value="return" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="CssCodeCompletionContext">
+      <Item value="width" priority="5" />
+      <Item value="chipselector-cont" priority="4" />
+      <Item value="green" priority="6" />
+      <Item value="maroon" priority="6" />
+      <Item value="blue" priority="6" />
+      <Item value="sandybrown" priority="6" />
+      <Item value="mediumaquamarine" priority="6" />
+      <Item value="left" priority="5" />
+      <Item value="top" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="JavaScriptSpecificContextQualified">
+      <Item value="isDefaultNamespace" priority="17" />
+      <Item value="top" priority="8" />
+      <Item value="left" priority="8" />
+      <Item value="constructor" priority="8" />
+      <Item value="log" priority="197" />
+      <Item value="length" priority="17" />
+      <Item value="round" priority="17" />
+      <Item value="indexOf" priority="8" />
+      <Item value="x" priority="8" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
