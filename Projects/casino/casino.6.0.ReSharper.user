@@ -1,0 +1,57 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="221" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="1325" fromTop="16" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="1728" fromTop="33" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="1361" fromTop="21" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="1105" fromTop="9" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="635" fromTop="18" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="635" fromTop="25" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="635" fromTop="10" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="635" fromTop="6" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="635" fromTop="10" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="635" fromTop="23" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="635" fromTop="19" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="432" fromTop="15" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="432" fromTop="21" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="153" fromTop="11" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="104" fromTop="15" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="104" fromTop="16" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="104" fromTop="13" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="139" fromTop="5" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="462" fromTop="17" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="609" fromTop="22" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="1923" fromTop="40" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="1486" fromTop="26" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="221" fromTop="9" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="221" fromTop="9" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="544" fromTop="25" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="370" fromTop="16" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="953" fromTop="31" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="837" fromTop="24" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="844" fromTop="33" />
+      <File id="19A7346A-54F4-4BE9-8FE5-CB72FE67D303/f:casino.cpp" caret="267" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

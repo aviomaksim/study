@@ -1,0 +1,6 @@
+Eesnimi1 Perenimi1	2	huvi1	huvi2	linn	t2nav	12345
+Eesnimi2 Perenimi2	3	huvi1	huvi2	huvi3	linn	t2nav	12345
+Eesnimi3 Perenimi3	5	huvi1	huvi2	huvi3	huvi4	huvi5	linn	t2nav	12345
+Eesnimi4 Perenimi4	2	huvi1	huvi2	linn	t2nav	12345
+Eesnimi5 Perenimi5	2	huvi1	huvi2	linn	t2nav	12345
+Eesnimi6 Perenimi6	2	huvi1	huvi2	linn	t2nav	12345
