@@ -1,0 +1,28 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="945BE948-6588-4AE4-ACB3-C28485D62310/f:Form1.vb/l:F!?u4ebnaja?U4ebnaja?TTU?Visuaalprogrammeerimine?dop raboti?flagi?Form1.vb" caret="291" fromTop="5" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="945BE948-6588-4AE4-ACB3-C28485D62310/f:Form1.vb/l:F!?u4ebnaja?U4ebnaja?TTU?Visuaalprogrammeerimine?dop raboti?flagi?Form1.vb" caret="275" fromTop="5" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

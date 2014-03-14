@@ -1,0 +1,44 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="2287" fromTop="76" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="1249" fromTop="25" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="1249" fromTop="22" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="1169" fromTop="25" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="2795" fromTop="27" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="2500" fromTop="18" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="427" fromTop="11" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="1094" fromTop="21" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="1480" fromTop="32" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="280" fromTop="8" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="1754" fromTop="27" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="2012" fromTop="37" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="3086" fromTop="25" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="3322" fromTop="33" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="2107" fromTop="34" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="864" fromTop="28" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="1902" fromTop="12" />
+      <File id="98ED0940-9BE4-44D5-94B1-3B54B3ED7379/f:Form1.vb" caret="3348" fromTop="19" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
